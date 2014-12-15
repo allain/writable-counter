@@ -1,6 +1,6 @@
 {
   "name": "writable-counter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A writable stream that counts the number of times it has received data.",
   "main": "index.js",
   "scripts": {
