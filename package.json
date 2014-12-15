@@ -1,0 +1,25 @@
+{
+  "name": "writable-counter",
+  "version": "0.1.0",
+  "description": "A writable stream that counts the number of times it has received data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/allain/writable-counter"
+  },
+  "keywords": [
+    "stream"
+  ],
+  "author": "Allain Lalonde <allain.lalonde@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allain/writable-counter/issues"
+  },
+  "homepage": "https://github.com/allain/writable-counter",
+  "devDependencies": {
+    "stream-array": "^1.0.1"
+  }
+}
