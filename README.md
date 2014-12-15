@@ -15,8 +15,6 @@ var streamArray = require("stream-array");
 var WritableCounter = require('writable-counter');
 var data = ["foo", "bar", "fizz", "baz"];
 
-var timer = new StreamTimer('example');
-
 var counter = WritableCounter();
 
 streamArray(data)
